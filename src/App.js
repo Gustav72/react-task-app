@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import uniqid from 'uniqid';
-import Overview from './components/Overview';
+import Overview from './component/Overview';
 
 class App extends Component {
   
