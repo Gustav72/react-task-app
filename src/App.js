@@ -31,7 +31,7 @@ class App extends Component {
       tasks: this.state.tasks.concat(this.state.task),
       task: { 
         text: '',
-      id: uniqid()
+        id: uniqid()
     },
     })
   }
